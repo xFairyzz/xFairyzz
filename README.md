@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://t.me/xFairyzz" target="_blank"><img src="https://img.shields.io/badge/Telegram-@xFairyzz-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://x.com/xxResonancee"><img src="https://img.shields.io/badge/Twitter-@xxFairyzz1337-blue?style=for-the-badge&logo=x" /></a>
-  <a href="https://discord.com/users/1092033992288653424"><img src="https://img.shields.io/badge/Discord-Juliaan%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
+  <a href="https://x.com/xxResonancee" target="_blank"><img src="https://img.shields.io/badge/Twitter-@xxFairyzz1337-blue?style=for-the-badge&logo=x" /></a>
+  <a href="https://discord.com/users/1092033992288653424" target="_blank"><img src="https://img.shields.io/badge/Discord-Juliaan%20%3C3-blue?style=for-the-badge&logo=discord" /></a>
   <br />
   <p align="center">
   <img src="https://lanyard.cnrad.dev/api/1092033992288653424?borderRadius=5px&idleMessage=&bg=a&animated=true;" alt="RPC" />
