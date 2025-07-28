@@ -109,9 +109,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfairyzz&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfairyzz&theme=tokyonight" />
-</p>
 
 ###### I'm not so active on GitHub
 
