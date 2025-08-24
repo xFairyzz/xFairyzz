@@ -28,7 +28,7 @@
 - 🗺️ **Location:** Germany  
 - 🗣️ **Languages:** German, English
 - 💻 **Programming in:** Python
-- 💻 **Landingpage** https://fairyzz.vercel.app
+- 💻 **Landingpage:** https://fairyzz.vercel.app
 ###### custom domain soon
 ---
 
