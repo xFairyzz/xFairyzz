@@ -24,7 +24,7 @@
 ## 👤 Me
 
 - 🔎 **Known as:** Juliaan
-- 👤 **Age:** 17
+- 👤 **Age:** 18
 - 🗺️ **Location:** Germany  
 - 🗣️ **Languages:** German, English
 - 💻 **Programming in:** Python
