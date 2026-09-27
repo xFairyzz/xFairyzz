@@ -1,5 +1,5 @@
 <a name="top"></a>
-[Me](#me) • [About](#about-me) • [Stats](#github-stats) • [Contact](#wanna-chat)
+[Me](#me) • [About](#about-me) • [Contact](#wanna-chat)
 
 <h1 align="center">💻 Hey, I'm Juliaan 💻</h1>
 <h3 align="center">🔥 Developer from Germany 🔥</h3>
